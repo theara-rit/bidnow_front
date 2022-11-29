@@ -1,6 +1,6 @@
 <template>
   <div class="container mx-auto">
-    <!-- CAR COMMING -->
+    <!-- CAR UPCOMMING -->
     <div class="flex justify-between">
       <h1 class="font-text font-bold text-xl uppercase mb-4 color">
         Upcomming Bidding
